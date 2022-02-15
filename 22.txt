@@ -1,0 +1,5 @@
+Ivan Ivanovich Ivanov, birthday: 16.2.2004, registration: 15.2.2022, login: dgh, password: 123
+Vladislav Ivanovich Ivanov, birthday: 12.5.2012, registration: 15.2.2022, login: , password: 
+Ivan Ivanovich Ivanov, birthday: 12.5.1980, registration: 15.2.2022, login: kjhlk, password: qwerty
+Svyatoslav Ivanovich Ivanov, birthday: 12.5.2012, registration: 15.2.2022, login: , password: 
+Ivan Ivanovich Ivanov, birthday: 12.5.1941, registration: 15.2.2022, login: , password: 
